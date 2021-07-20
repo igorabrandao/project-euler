@@ -15,7 +15,7 @@ You can help us to make this projet even better :rocket:. Here are the ways you 
 
 ### 1. Giving a feedback
 
-Report your feedback, issues or suggestions by [creating a topic here](https://github.com/igorabrandao/Data-structures/issues) :punch:.
+Report your feedback, issues or suggestions by [creating a topic here](https://github.com/igorabrandao/project-euler/issues) :punch:.
 
 ### 2. Developing with us
 
