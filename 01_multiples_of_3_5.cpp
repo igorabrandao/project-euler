@@ -24,11 +24,10 @@ int sumMultiples3And5(int maxRange_)
 
 int main()
 {
-    int natural;
-    cin >> natural;
+    int natural = 1000;
 
     // Call the solution function
-    int result = sumMultiples3And5(natural);
+    auto result = sumMultiples3And5(natural);
 
     cout << "<<< Result: " << result << endl;
 
